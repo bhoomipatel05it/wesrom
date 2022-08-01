@@ -1,0 +1,8 @@
+[26-Jul-2022 11:06:52 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[30-Jul-2022 11:24:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/whitewaqyin/public_html/wesrom/wp-content/themes/twentytwentytwo/blocks/slick-slider/block.php on line 4
+[30-Jul-2022 11:24:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/whitewaqyin/public_html/wesrom/wp-content/themes/twentytwentytwo/blocks/slick-slider/block.php on line 4
+[30-Jul-2022 11:24:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/whitewaqyin/public_html/wesrom/wp-content/themes/twentytwentytwo/blocks/slick-slider/block.php on line 4
+[30-Jul-2022 11:25:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/whitewaqyin/public_html/wesrom/wp-content/themes/twentytwentytwo/blocks/slick-slider/block.php on line 4
+[01-Aug-2022 15:32:23 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/whitewaqyin/public_html/wesrom/wp-content/themes/twentytwentytwo/functions.php on line 237
+[01-Aug-2022 15:32:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/whitewaqyin/public_html/wesrom/wp-content/themes/twentytwentytwo/functions.php on line 237
+[01-Aug-2022 15:32:49 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/whitewaqyin/public_html/wesrom/wp-content/themes/twentytwentytwo/functions.php on line 237
